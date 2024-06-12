@@ -259,8 +259,8 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 
 118. Stop Flailing While Falling (v1.0) [link](https://www.nexusmods.com/starfield/mods/6090?tab=files)
 119. Sprint Headtracking Bug Fix (v1.1.1) [link](https://www.nexusmods.com/starfield/mods/2370?tab=files)
-120. No Boost Assault Training Fire Shockwave Effect [link](https://www.nexusmods.com/starfield/mods/6001?tab=files)
-121. No Self Heal Effect (fog begone) [link](https://www.nexusmods.com/starfield/mods/5918?tab=files)
+120. No Boost Assault Training Fire Shockwave Effect [link](https://www.nexusmods.com/starfield/mods/6001?tab=files) `<----- UPDATED FOR V4`
+121. No Self Heal Effect (fog begone) [link](https://www.nexusmods.com/starfield/mods/5918?tab=files) `<----- UPDATED FOR V4`
 122. Footsteps Sound Overhaul [link](https://www.nexusmods.com/starfield/mods/9318?tab=files)
 123. Alternate Impact Sound (Hit Marker) [link](https://www.nexusmods.com/starfield/mods/5519?tab=description)
 124. Crowd NPC Eye Ambient Occlusion Fix [link](https://www.nexusmods.com/starfield/mods/2718?tab=files)
