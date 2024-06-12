@@ -151,7 +151,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 46. Star Wars Binoculars [link](https://www.nexusmods.com/starfield/mods/6843?tab=files)
 47. Gonk Trashbins [link](https://www.nexusmods.com/starfield/mods/5523?tab=files)
 48. Star Wars Holocron Snow Globes [link](https://www.nexusmods.com/starfield/mods/6618?tab=files)
-49. Aurebesh - Star Wars Conversion [link](https://www.nexusmods.com/starfield/mods/6032?tab=files)
+49. Aurebesh - Star Wars Conversion [link](https://www.nexusmods.com/starfield/mods/6032?tab=files) `<----- UPDATED FOR V4`
 50. Star Wars Astromech Mini Bots [link](https://www.nexusmods.com/starfield/mods/5056?tab=files)
 51. Imperial Crest MAST Tower logo Replacer [link](https://www.nexusmods.com/starfield/mods/4816?tab=files)
 52. Imperial Crest MAST Tower Logo Replacer Fix [link](https://www.nexusmods.com/starfield/mods/9256?tab=files)
