@@ -1,4 +1,4 @@
-# Star Wars Genesis V3: Total Conversion Modlist for Starfield
+# Star Wars Genesis V4: Total Conversion Modlist for Starfield
 ![Starfield Modlist Photoshop Cropped](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/7473f5e6-41f7-44e2-add5-3561df29b1be)
 
 This is a guide on installing the Star Wars Genesis modlist that turns Starfield into Star Wars, as seen on YouTube and featured on IGN.<br />
@@ -28,7 +28,7 @@ THIS IS THE BETA VERSION OF V3. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 4. Not a requirement but I highly recommend doing this on a fresh save for the most immersive and best experience. V3 now features an alternate start mod themed around this modlist. There will be some mods that won't work on an existing save but you can workaround it by looking at the FAQ.
 5. Version 1.12.30 of Starfield. Please turn off automatic updates for your sake and don't update until I give the green light in my Discord. Bethesda is known for breaking mods in their updates and you may still have issues if you choose to downgrade.
 
-## **IMPORTANT PRE-STEPS**  `<----- NEW TO V3` <br />
+## **IMPORTANT PRE-STEPS**   <br />
 1. Join this [discord](https://discord.gg/ewUVAqyrQX), get roles, and download the installer version of MO2 2.5.2 shown in #dev-builds. Point the install location to your MO2/Starfield folder. If done correctly, it should look like this on the top left your MO2 application: ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V3_for_Starfield_1.12.30/assets/170469610/a295204a-a7ee-4273-b788-15abf1a65739)
 2. In Mod Organizer 2, go to Tools, Plugins, and scroll down to Starfield Support Plugin. Set "bypass_plugins_enabler_check" to true. If it's already on true, just leave it be <br />
 3. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
@@ -36,7 +36,7 @@ THIS IS THE BETA VERSION OF V3. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 
 ## **Manually Installed Mods:**<br />
 Please read each mod instruction carefully. They're manually installed in different places. <br />
-1. Starfield Script Extender (V0.28) [link](https://www.nexusmods.com/starfield/mods/106?tab=files) `<----- UPDATED FOR V3` <br />
+1. Starfield Script Extender (V0.28) [link](https://www.nexusmods.com/starfield/mods/106?tab=files)  <br />
    Drag the contents of sfse_0_2_7 into steamapps\common\Starfield <br />
    Add SFSE to MO2 by following these instructions: [link](https://www.youtube.com/watch?v=OWVri7somCI&t=85s)
 2. Mandalorian Collection Mesh Texture Edits: [link](https://www.nexusmods.com/starfield/mods/6043?tab=files)<br />
@@ -48,7 +48,7 @@ Please read each mod instruction carefully. They're manually installed in differ
    I did the Forever Jetpack option but feel free to do any of the other ones. Run enable_hotkeys.cmd after
 5. Real ADS - Part 2 - Add Real Zoom: [link](https://www.nexusmods.com/starfield/mods/3939?tab=files)<br />
    Open the RealADS_Sniper folder. Drag RealADS.txt into steamapps\common\Starfield
-6. Star Wars Mandalorian Title Screen Overhaul [link](https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing) `<----- UPDATED FOR V3` <br />
+6. Star Wars Mandalorian Title Screen Overhaul [link](https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing)  <br />
    Install Part 2 Only by putting the Data folder into steamapps\common\Starfield <br />
 7. Starfield Performance Boost (All In One (For all)): [link](https://www.nexusmods.com/starfield/mods/290?tab=files) <br />
    Drag all the contents into steamapps\common\Starfield.
@@ -60,28 +60,28 @@ Please read each mod instruction carefully. They're manually installed in differ
 **Please make sure you download the correct version shown in the parentheses.**
 
 ## **Core**
-1. REMOVE Plugins.txt Enabler `<----- REMOVE FROM V3`
-2. Address Library for SFSE Plugins (v12): [link](https://www.nexusmods.com/starfield/mods/3256/?tab=files) `<----- UPDATED FOR V3`
+1. REMOVE Plugins.txt Enabler 
+2. Address Library for SFSE Plugins (v12): [link](https://www.nexusmods.com/starfield/mods/3256/?tab=files) 
 3. Console Command Runner (Updated): [link](https://www.nexusmods.com/starfield/mods/7318?tab=files)
 
 <br />**Gameplay**
 
-4. SKK Fast Start New Game (Alternate Start) [link](https://www.nexusmods.com/starfield/mods/5971?tab=files) `<----- NEW TO V3`
-5. Star Wars Alternate Start [link](https://www.nexusmods.com/starfield/mods/9630?tab=files) `<----- NEW TO V3`
-6. Better NPC's [link](https://www.nexusmods.com/starfield/mods/5622?tab=files) `<----- NEW TO V3`
+4. SKK Fast Start New Game (Alternate Start) [link](https://www.nexusmods.com/starfield/mods/5971?tab=files) 
+5. Star Wars Alternate Start [link](https://www.nexusmods.com/starfield/mods/9630?tab=files) 
+6. Better NPC's [link](https://www.nexusmods.com/starfield/mods/5622?tab=files) 
 7. Star Wars Aliens (v1.1) [link](https://www.nexusmods.com/starfield/mods/8518?tab=files)
 8. Ascension - Gameplay Overhaul [link](https://www.nexusmods.com/starfield/mods/6839?tab=files) <br /> 
    This mod is no longer optional due to how much custom balancing I've done around it.
 9. Perks Increase Aim Down Sight Accuracy (v1.0) [link](https://www.nexusmods.com/starfield/mods/8649?tab=files)
 10. Accurate Aiming (No Spread) [link](https://www.nexusmods.com/starfield/mods/5558?tab=files)
 11. Improved Combat AI (v1.03) [link](https://www.nexusmods.com/starfield/mods/1392?tab=files)
-12. BAKA Hold to Sprint (v1.1.0) [link](https://www.nexusmods.com/starfield/mods/8915?tab=files) `<----- UPDATED FOR V`
+12. BAKA Hold to Sprint (v1.1.0) [link](https://www.nexusmods.com/starfield/mods/8915?tab=files) 
 13. Armor Drop Chance - CCR [link](https://www.nexusmods.com/starfield/mods/2978?tab=files) <br />
     Select MO2 and 100% drop chance.
-14. POI Cooldown - Fewer Repeated POI's [link](https://www.nexusmods.com/starfield/mods/9532?tab=files) `<----- NEW TO V3`
-15. More Mission Board Quests [link](https://www.nexusmods.com/starfield/mods/5708?tab=files) `<----- NEW TO V3` <br />
+14. POI Cooldown - Fewer Repeated POI's [link](https://www.nexusmods.com/starfield/mods/9532?tab=files) 
+15. More Mission Board Quests [link](https://www.nexusmods.com/starfield/mods/5708?tab=files)  <br />
     Do manual download and drag in your MO2
-16. No Angry Companions [link](https://www.nexusmods.com/starfield/mods/9524?tab=files) `<----- NEW TO V3`
+16. No Angry Companions [link](https://www.nexusmods.com/starfield/mods/9524?tab=files) 
 
 <br />**HUD**
 
@@ -97,7 +97,8 @@ Please read each mod instruction carefully. They're manually installed in differ
 16. Mando Pause Screen [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
     Drag into MO2 
 17. Star Wars Loading Screens [link](https://www.nexusmods.com/starfield/mods/9385/?tab=files)
-15. Star Wars Name Replacement Overhaul [link](https://www.nexusmods.com/starfield/mods/9421?tab=files) `<----- UPDATED FOR V3` <br />
+18. Star Wars Background and Traits [link](https://www.nexusmods.com/starfield/mods/9661?tab=files) `<----- NEW TO V4`
+15. Star Wars Name Replacement Overhaul [link](https://www.nexusmods.com/starfield/mods/9421?tab=files) <br />
     Install only the main file right now
 17. Enhanced Player Healthbar WYOR (v1.03) [link](https://www.nexusmods.com/starfield/mods/454?tab=files)
 18. Show Star Names [link](https://www.nexusmods.com/starfield/mods/5188?tab=files)
@@ -108,7 +109,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 20. Angry Walk Animation (v1.0) [link](https://www.nexusmods.com/starfield/mods/3434?tab=files)
 21. 3rd Person 1-handed Pistol Animations (v2.0) [link](https://www.nexusmods.com/starfield/mods/5253?tab=files)
 22. Unified Camera - Third Person Tweaks (Option 3 Melee NO ZOOM) (v1.0) [link](https://www.nexusmods.com/starfield/mods/3211?tab=files)
-23. Quick Lowered Weapons (v1.8) [link](https://www.nexusmods.com/starfield/mods/6338?tab=files) `<----- UPDATED FOR V3`
+23. Quick Lowered Weapons (v1.8) [link](https://www.nexusmods.com/starfield/mods/6338?tab=files) 
 24. Immersive Mantle Animation Speed 50 - No Delay (v1.0) [link](https://www.nexusmods.com/starfield/mods/1543?tab=files)
 
 <br />**HD Overhaul**<br />
@@ -133,7 +134,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 37. Coruscant (WIP) [link](https://www.nexusmods.com/starfield/mods/3461?tab=files)
 38. Realistic Stars 4k [link](https://www.nexusmods.com/starfield/mods/2151?tab=files)
 39. Enhanced Starfield Clouds - Full Res [link](https://www.nexusmods.com/starfield/mods/3873?tab=files)
-40. Vanilla Flashlight Improved [link](https://www.nexusmods.com/starfield/mods/701?tab=files) `<----- NEW TO V3` <br />
+40. Vanilla Flashlight Improved [link](https://www.nexusmods.com/starfield/mods/701?tab=files)  <br />
     Options - Brighter - Plugin
 
 <br />**Characters**<br />
@@ -146,7 +147,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 42. Star Wars Grenades [link](https://www.nexusmods.com/starfield/mods/6774?tab=files)
 43. Star Wars Data Pads [link](https://www.nexusmods.com/starfield/mods/6844?tab=files)
 44. Star Wars Contraband Replacer [link](https://www.nexusmods.com/starfield/mods/7855?tab=files)
-45. Star Wars Credits (Only Credits) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- UPDATED FOR V3`
+45. Star Wars Credits (Only Credits) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) 
 46. Star Wars Binoculars [link](https://www.nexusmods.com/starfield/mods/6843?tab=files)
 47. Gonk Trashbins [link](https://www.nexusmods.com/starfield/mods/5523?tab=files)
 48. Star Wars Holocron Snow Globes [link](https://www.nexusmods.com/starfield/mods/6618?tab=files)
@@ -170,9 +171,9 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 57. Star Wars Prison Scrubs Texture [link](https://www.nexusmods.com/starfield/mods/6383?tab=files)
 58. RTM's Neon Businesswear Retexture [link](https://www.nexusmods.com/starfield/mods/9154?tab=files)
 59. Rebel Jacket - Dark Brown (Noel's Outfit) [link](https://www.nexusmods.com/starfield/mods/5826?tab=files)
-60. Striker Leather Coat (Dark Brown) [link](https://www.nexusmods.com/starfield/mods/7710?tab=files) `<----- REMOVE FROM V3`
-61. Sith Lord Robes [link](https://www.nexusmods.com/starfield/mods/6425?tab=files) `<----- NEW TO V3`
-62. Striker Gang Outfit Replacer (Black Robes) [link] (https://www.nexusmods.com/starfield/mods/9635?tab=files) `<----- NEW TO V3`
+60. Striker Leather Coat (Dark Brown) [link](https://www.nexusmods.com/starfield/mods/7710?tab=files) 
+61. Sith Lord Robes [link](https://www.nexusmods.com/starfield/mods/6425?tab=files) 
+62. Striker Gang Outfit Replacer (Black Robes) [link] (https://www.nexusmods.com/starfield/mods/9635?tab=files) 
 
 <br />**Armor**<br />
 
@@ -186,7 +187,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 66. Star Wars Constellation Commandos [link](https://www.nexusmods.com/starfield/mods/9417)
 67. Freestar Rebels (v1.3) [link](https://www.nexusmods.com/starfield/mods/7410?tab=files)
 68. UC Empire (v1.3) [link](https://www.nexusmods.com/starfield/mods/7223?tab=files)
-69. AT-ST Enemies [link](https://www.nexusmods.com/starfield/mods/8022?tab=files) `<----- UPDATED FOR V3`
+69. AT-ST Enemies [link](https://www.nexusmods.com/starfield/mods/8022?tab=files) 
 70. Star Wars Rebel Leaders (v1.1) [link](https://www.nexusmods.com/starfield/mods/9125?tab=files)
 71. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) [link](https://www.nexusmods.com/starfield/mods/7506?tab=files)
 72. Star Wars - Purge Trooper (Varuun) [link](https://www.nexusmods.com/starfield/mods/6823?tab=files)
@@ -194,26 +195,26 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 74. Coruscant Police Uniform (Neon/Ryujin Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9313?tab=files)
 75. Bespin Security Uniform (Trident Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9325?tab=files)
 76. Dark Trooper Armor (Shocktroop Replacer) [link](https://www.nexusmods.com/starfield/mods/9473?tab=files)<br />
-77. Star Wars - Shoretrooper Main [link](https://www.nexusmods.com/starfield/mods/8822?tab=files) `<----- DO NOT UPDATE`
-78. Star Wars - Shoretrooper Paradiso Security Replacer [link](https://www.nexusmods.com/starfield/mods/8822?tab=files) `<----- DO NOT UPDATE`  <br />
+77. Star Wars - Shoretrooper Main [link](https://www.nexusmods.com/starfield/mods/8822?tab=files) 
+78. Star Wars - Shoretrooper Paradiso Security Replacer [link](https://www.nexusmods.com/starfield/mods/8822?tab=files)   <br />
     Download these 2 versions: ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V3_for_Starfield_1.12.30/assets/170469610/175037e4-d28f-4f9b-a7ec-3db8c6dfce01)  <br />
     For some reason the updated version is causing savegame crashes and I ain't about to deal with that 1 hour before V3 release
 79. Sith Stalker Armor (Mark 1 Replacer) [link](https://www.nexusmods.com/starfield/mods/9523/?tab=files)
-80. REMOVE Scoundrel and Smuggler Outfits (Deep Recon and Space Trucker Replacer) `<----- REMOVE FROM V3`
+80. REMOVE Scoundrel and Smuggler Outfits (Deep Recon and Space Trucker Replacer) 
 81. Star Wars Bounty Hunter Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/9147?tab=files)
 82. Dengar Mercenary Spacesuit Replacer [link](https://www.nexusmods.com/starfield/mods/9434?tab=files)
 83. Boba Fet 1313 (1.1) [link](https://www.nexusmods.com/starfield/mods/9193?tab=files)
-84. Boba Fett 1313 Explorer Suit Replacement [link](https://www.nexusmods.com/starfield/mods/9435?tab=files) `<----- UPDATED FOR V3`
-85. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples [link](https://www.nexusmods.com/starfield/mods/9472/?tab=files) `<----- UPDATED FOR V3`
+84. Boba Fett 1313 Explorer Suit Replacement [link](https://www.nexusmods.com/starfield/mods/9435?tab=files) 
+85. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples [link](https://www.nexusmods.com/starfield/mods/9472/?tab=files) 
 86. Star Wars - BB Echo Armor (V1) [link](https://www.nexusmods.com/starfield/mods/9118?tab=files)
-87. BB Echo Mercury Suit Replacer [link](https://www.nexusmods.com/starfield/mods/9448?tab=files) `<----- UPDATED FOR V3`
+87. BB Echo Mercury Suit Replacer [link](https://www.nexusmods.com/starfield/mods/9448?tab=files) 
 88. Star Wars - Mimban Stormtrooper (1.1) [link](https://www.nexusmods.com/starfield/mods/8965?tab=files)
 89. Mimban Stormtrooper Deepcore/Deepseeker/Miner Replacer [link](https://www.nexusmods.com/starfield/mods/9447?tab=files)
-90. Star Wars Snowtrooper [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3`
-91. Nomad Armor Star Wars [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3` <br />
+90. Star Wars Snowtrooper [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) 
+91. Nomad Armor Star Wars [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing)  <br />
     Credit to zone79 for the amazing Nomad Armor design
-92. Cad Bane (Star Wars) (1.1) - Main Mod ONLY [link](https://www.nexusmods.com/starfield/mods/9537?tab=files) `<----- NEW TO V3`
-93. Smuggler Armor [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V3`
+92. Cad Bane (Star Wars) (1.1) - Main Mod ONLY [link](https://www.nexusmods.com/starfield/mods/9537?tab=files) 
+93. Smuggler Armor [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) 
 
 <br />**Weapons**<br />
 
@@ -266,13 +267,13 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 125. Neon Security Voice Fix [link](https://www.nexusmods.com/starfield/mods/7947?tab=files)
 126. Vasco - Reduced Footsteps Volume by Xtudo [link](https://www.nexusmods.com/starfield/mods/2808?tab=files)
 127. Better Death Physics - No Collision [link](https://www.nexusmods.com/starfield/mods/5600?tab=files)
-128. Remover Default Laser [link](https://www.nexusmods.com/starfield/mods/4303?tab=files) `<----- NEW TO V3` <br />
+128. Remover Default Laser [link](https://www.nexusmods.com/starfield/mods/4303?tab=files)  <br />
      Call the first file "Remove Default Laser" when installing in MO2  <br />
      Call the second file "Remove Recon Laser" when installing in MO2 <br />
 130. Particle Weapons Orb Fix [link](https://www.nexusmods.com/starfield/mods/6699?tab=files)
-131. Star Wars Name Replacer Override Patch [link](https://www.nexusmods.com/starfield/mods/9421?tab=files) `<----- UPDATED FOR V3`  <br />
+131. Star Wars Name Replacer Override Patch [link](https://www.nexusmods.com/starfield/mods/9421?tab=files)   <br />
      Install the optional file only, as you already installed the main one in the beginning.
-132. Star Wars Genesis Override Patch (VERY IMPORTANT) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- UPDATED FOR V3` <br />
+132. Star Wars Genesis Override Patch (VERY IMPORTANT) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing)  <br />
       This last mod is literally the thing holding this modlist together. Please make sure you install it.
 
 ## **Plugins Load Order:**<br />
@@ -285,7 +286,7 @@ YOU MUST:
 2. Select ALL plugins (shift click works), right click, and choose "Lock load order"
 
 
-## **Starfield Custom.ini File** <br /> `<----- UPDATED FOR V3`
+## **Starfield Custom.ini File** <br /> 
 If you haven't, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" in your MO2 directory. <br />
 Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and either copy and paste the contents or replace your existing one  <br />
    
