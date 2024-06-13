@@ -119,9 +119,9 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 26. Starfield HD Overhaul Textures Patch [link](https://www.nexusmods.com/starfield/mods/5124?tab=files)<br />
 27. Starfield HD Overhaul ESM [link](https://www.nexusmods.com/starfield/mods/5124?tab=files)<br />
 28. 4k Beards [link](https://www.nexusmods.com/starfield/mods/615?tab=files)<br />
-29. 4k Hair [link](https://www.nexusmods.com/starfield/mods/615?tab=files)<br />
-30. 4k Eyebrows [link](https://www.nexusmods.com/starfield/mods/606?tab=files)<br />
-31. 4k Eyes and Eyelashes [link](https://www.nexusmods.com/starfield/mods/606?tab=files)<br />
+29. 4k Hair `REMOVE FROM V4`<br />
+30. 4k Eyebrows `REMOVE FROM V4` <br />
+31. 4k Eyes and Eyelashes `REMOVE FROM V4` <br />
 
 <br />**Visuals**<br />
 
