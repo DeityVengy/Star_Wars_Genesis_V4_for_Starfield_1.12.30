@@ -214,7 +214,9 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 91. Nomad Armor Star Wars [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing)  <br />
     Credit to zone79 for the amazing Nomad Armor design
 92. Cad Bane (Star Wars) (1.1) - Main Mod ONLY [link](https://www.nexusmods.com/starfield/mods/9537?tab=files) 
-93. Smuggler Armor [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) 
+93. Smuggler Armor [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing)
+94. Darth Vader Outfit(v2) [link](https://www.nexusmods.com/starfield/mods/8921?tab=files) `<----- NEW TO V4`
+95. Sentinel Armor (ETES Suit Replacer) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V4`
 
 <br />**Weapons**<br />
 
