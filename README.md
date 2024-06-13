@@ -66,7 +66,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 
 <br />**Gameplay**
 
-4. SKK Fast Start New Game (Alternate Start) [link](https://www.nexusmods.com/starfield/mods/5971?tab=files) 
+4. SKK Fast Start New Game MAKE SURE 006 VERSION [link](https://www.nexusmods.com/starfield/mods/5971?tab=files) 
 5. Star Wars Alternate Start [link](https://www.nexusmods.com/starfield/mods/9630?tab=files) 
 6. Better NPC's [link](https://www.nexusmods.com/starfield/mods/5622?tab=files) 
 7. Star Wars Aliens (v1.1) [link](https://www.nexusmods.com/starfield/mods/8518?tab=files)
