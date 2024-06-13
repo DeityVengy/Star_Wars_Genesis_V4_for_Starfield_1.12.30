@@ -2,7 +2,7 @@
 ![Starfield Modlist Photoshop Cropped](https://github.com/DeityVengy/Star_Wars_Genesis_V2_for_Starfield_1.11.36/assets/170469610/7473f5e6-41f7-44e2-add5-3561df29b1be)
 
 This is a guide on installing the Star Wars Genesis modlist that turns Starfield into Star Wars, as seen on YouTube and featured on IGN.<br />
-THIS IS THE BETA VERSION OF V3. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
+THIS IS THE BETA VERSION OF V4. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 
 
 ## **Overview:**<br />
@@ -289,7 +289,7 @@ YOU MUST:
 2. Select ALL plugins (shift click works), right click, and choose "Lock load order"
 
 
-## **Starfield Custom.ini File** <br /> 
+## **Starfield Custom.ini File** <br /> `<----- UPDATED FOR V4`
 If you haven't, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" in your MO2 directory. <br />
 Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and either copy and paste the contents or replace your existing one  <br />
    
