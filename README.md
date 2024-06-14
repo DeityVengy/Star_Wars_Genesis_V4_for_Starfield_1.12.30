@@ -211,7 +211,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 82. Dengar Mercenary Spacesuit Replacer [link](https://www.nexusmods.com/starfield/mods/9434?tab=files)
 83. Boba Fet 1313 (1.1) [link](https://www.nexusmods.com/starfield/mods/9193?tab=files) `<----- UPDATED FOR V4`
 84. Boba Fett 1313 Explorer Suit Replacement [link](https://www.nexusmods.com/starfield/mods/9435?tab=files) 
-85. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples [link](https://www.nexusmods.com/starfield/mods/9472/?tab=files) 
+85. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples [link](https://www.nexusmods.com/starfield/mods/9472/?tab=files) `<----- UPDATED FOR V4`
 86. Star Wars - BB Echo Armor (V1) [link](https://www.nexusmods.com/starfield/mods/9118?tab=files)
 87. BB Echo Mercury Suit Replacer [link](https://www.nexusmods.com/starfield/mods/9448?tab=files) 
 88. Star Wars - Mimban Stormtrooper (1.1) [link](https://www.nexusmods.com/starfield/mods/8965?tab=files)
@@ -280,9 +280,9 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
      Call the second file "Remove Recon Laser" when installing in MO2 <br />
      Don't download any other file <br />
 130. Particle Weapons Orb Fix [link](https://www.nexusmods.com/starfield/mods/6699?tab=files)
-131. Star Wars Name Replacer Override Patch [link](https://www.nexusmods.com/starfield/mods/9421?tab=files)   <br />
-     Install the optional file only, as you already installed the main one in the beginning.
-132. Star Wars Genesis Override Patch (VERY IMPORTANT) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing)  <br />
+131. Star Wars Name Replacer Override Patch [link](https://www.nexusmods.com/starfield/mods/9421?tab=files)   <br /> `<----- UPDATED FOR V4`
+     Install the optional file only (not encyclopedia), as you already installed the main one in the beginning.
+132. Star Wars Genesis Override Patch (VERY IMPORTANT) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing)  <br /> `<----- UPDATED FOR V4`
       This last mod is literally the thing holding this modlist together. Please make sure you install it.
 
 ## **Plugins Load Order:**<br />
