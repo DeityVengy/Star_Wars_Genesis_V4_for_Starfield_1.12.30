@@ -136,6 +136,7 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 39. Enhanced Starfield Clouds - Full Res [link](https://www.nexusmods.com/starfield/mods/3873?tab=files)
 40. Vanilla Flashlight Improved [link](https://www.nexusmods.com/starfield/mods/701?tab=files)  <br />
     Options - Brighter - Plugin
+41. Docking Animation Color Correction [link](https://www.nexusmods.com/starfield/mods/9720?tab=files) `<----- NEW TO V4`
 
 <br />**Characters**<br />
 
