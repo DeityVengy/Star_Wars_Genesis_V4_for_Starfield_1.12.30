@@ -83,26 +83,19 @@ Please read each mod instruction carefully. They're manually installed in differ
     Do manual download and drag in your MO2
 16. No Angry Companions [link](https://www.nexusmods.com/starfield/mods/9524?tab=files) 
 
-<br />**HUD**
+<br />**HUD**`<----- REVAMPED FOR V4` <br />
 
 10. 60 FPS - Smooth UI (v3.9) [link](https://www.nexusmods.com/starfield/mods/350?tab=files)
-11. Star Wars Mandalorian Title Screen Overhaul [link](https://drive.google.com/drive/folders/1xSbbV_F8L1KNOMc0d8S53sihKWz-2bt0?usp=sharing) <br />
-    Install Part 1 only as you've already manually installed Part 2
-12. Compact Inventory UI (v1.5) [link](https://www.nexusmods.com/starfield/mods/185?tab=files) <br />
+11. Compact Inventory UI (v1.5) [link](https://www.nexusmods.com/starfield/mods/185?tab=files) <br />
     Select 60 FPS, Slim, and unchecked Vignette
-13. Less Intrusive HUD and Better Crosshair (v1.0) [link](https://www.nexusmods.com/starfield/mods/2534?tab=files) <br />
-    Manually install and drag the zip into the Mod Organizer 2 download folders. Install normally
-15. Weapon Icons - AiO (Complete Series) [link](https://www.nexusmods.com/starfield/mods/8744?tab=files) <br /> 
+12. Weapon Icons - AiO (Complete Series) [link](https://www.nexusmods.com/starfield/mods/8744?tab=files) <br /> 
     MAKE SURE YOU NAME THE MOD "Weapon Icons - AiO (Complete Series)"
-16. Mando Pause Screen [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
-    Drag into MO2 
-17. Star Wars Loading Screens [link](https://www.nexusmods.com/starfield/mods/9385/?tab=files)
-18. Star Wars Background and Traits [link](https://www.nexusmods.com/starfield/mods/9661?tab=files) `<----- NEW TO V4`
-15. Star Wars Name Replacement Overhaul [link](https://www.nexusmods.com/starfield/mods/9421?tab=files) <br />
+13. Star Wars Background and Traits [link](https://www.nexusmods.com/starfield/mods/9661?tab=files) `<----- NEW TO V4`
+14. Star Wars Name Replacement Overhaul [link](https://www.nexusmods.com/starfield/mods/9421?tab=files) <br /> `<----- UPDATED FOR V4`
     Install only the main file right now
-17. Enhanced Player Healthbar WYOR (v1.03) [link](https://www.nexusmods.com/starfield/mods/454?tab=files)
-18. Show Star Names [link](https://www.nexusmods.com/starfield/mods/5188?tab=files)
-19. Starfield Pause Screen Logo Remover [link](https://www.nexusmods.com/starfield/mods/9474/?tab=files)
+16. Enhanced Player Healthbar WYOR (v1.03) [link](https://www.nexusmods.com/starfield/mods/454?tab=files)
+17. Show Star Names [link](https://www.nexusmods.com/starfield/mods/5188?tab=files)
+18. Star Wars Genesis - HUD Pack
 
 <br />**Quests**<br />
 
@@ -148,81 +141,54 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 40. Greedo - Star Wars Companion [link](https://www.nexusmods.com/starfield/mods/8928?tab=files)
 41. BD-1 Vasco [link](https://www.nexusmods.com/starfield/mods/8235?tab=files)
 
-<br />**Textures**<br />
+<br />**Textures** `<----- REVAMPED FOR V4`<br /> 
+These are the only mods you should have in the Textures category at the end of the revamp
 
-42. Star Wars Grenades [link](https://www.nexusmods.com/starfield/mods/6774?tab=files)
-43. Star Wars Data Pads [link](https://www.nexusmods.com/starfield/mods/9732/?tab=files) `<----- UPDATED FOR V4`
-44. Star Wars Contraband Replacer [link](https://www.nexusmods.com/starfield/mods/7855?tab=files)
-45. Star Wars Credits (Only Credits) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) 
-46. Star Wars Binoculars [link](https://www.nexusmods.com/starfield/mods/6843?tab=files)
-47. Gonk Trashbins [link](https://www.nexusmods.com/starfield/mods/5523?tab=files)
-48. Star Wars Holocron Snow Globes [link](https://www.nexusmods.com/starfield/mods/6618?tab=files)
-49. Aurebesh - Star Wars Conversion [link](https://www.nexusmods.com/starfield/mods/6032?tab=files) `<----- UPDATED FOR V4`
-50. Star Wars Astromech Mini Bots [link](https://www.nexusmods.com/starfield/mods/5056?tab=files)
-51. Imperial Crest MAST Tower logo Replacer [link](https://www.nexusmods.com/starfield/mods/4816?tab=files)
-52. Imperial Crest MAST Tower Logo Replacer Fix [link](https://www.nexusmods.com/starfield/mods/9256?tab=files)
-53. Star Wars Spotchka from Mandalorian (Bogs Grog Green Retexture) (v1.1) [link](https://www.nexusmods.com/starfield/mods/5162?tab=files)
+42. Aurebesh - Star Wars Conversion [link](https://www.nexusmods.com/starfield/mods/6032?tab=files) `<----- UPDATED FOR V4`
+43. Star Wars Genesis - Misc Item Pack `<----- NEW TO V4`
+44. Star Wars Contraband (Updated) `<----- UPDATED FOR V4`
+45. Star Wars Astromech Mini Bots [link](https://www.nexusmods.com/starfield/mods/5056?tab=files)
+46. Imperial Crest MAST Tower logo Replacer [link](https://www.nexusmods.com/starfield/mods/4816?tab=files)
+56. Imperial Crest MAST Tower Logo Replacer Fix [link](https://www.nexusmods.com/starfield/mods/9256?tab=files)
 
-<br />**Outfits**<br />
+<br />**Outfits**`<----- REVAMPED FOR V4`<br />
+Delete all mods in this category and just start fresh with these:
 
-54. Star Wars Inspired Retextures [link](https://www.nexusmods.com/starfield/mods/4434?tab=description) <br />
-    - Cade Bane Freestar - Delete Meshes folder and delete outfit_ranger_01 folder in Textures folder after installing
-    - Luke Award Outfit
-    - Rey Scrapper Outfit
-    - Sam Solo
-    - Lando Outfit - DOWNLOAD MANUALLY FIRST AND THEN DELETE CLASSIC FOLDER. THEN DRAG ZIP TO MO2
-    - Barret Outfit - DOWNLOAD MANUALLY FIRST AND THEN DELETE CLASSIC FOLDER. THEN DRAG ZIP TO MO2
+54. Sith Lord Robes [link](https://www.nexusmods.com/starfield/mods/6425?tab=files) 
 55. Delgado of Mandalore - Delgado Retexture Only [link](https://www.nexusmods.com/starfield/mods/3146?tab=files)
-56. Star Wars Empire Longsleeve Texture [link](https://www.nexusmods.com/starfield/mods/6348?tab=files)
-57. Star Wars Prison Scrubs Texture [link](https://www.nexusmods.com/starfield/mods/6383?tab=files)
-58. RTM's Neon Businesswear Retexture [link](https://www.nexusmods.com/starfield/mods/9154?tab=files)
-59. Rebel Jacket - Dark Brown (Noel's Outfit) [link](https://www.nexusmods.com/starfield/mods/5826?tab=files)
-60. Striker Leather Coat (Dark Brown) [link](https://www.nexusmods.com/starfield/mods/7710?tab=files) 
-61. Sith Lord Robes [link](https://www.nexusmods.com/starfield/mods/6425?tab=files) 
-62. Striker Gang Outfit Replacer (Black Robes) [link] (https://www.nexusmods.com/starfield/mods/9635?tab=files) 
+56. Rebel Jacket - Dark Brown (Noel's Outfit) [link](https://www.nexusmods.com/starfield/mods/5826?tab=files)
+57. Star Wars Genesis - Clothing Pack 
 
-<br />**Armor**<br />
+<br />**Armor**`<----- REVAMPED FOR V4`<br />
+Reorder the mods you currently have like this, then remove anything after "Star Wars Genesis - Armor Pack"
 
 62. Star Wars Armor Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/8896?tab=files) <br />
     MAIN FILE 2ND OPTION ONLY
 62. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) (NO MANTIS) [link](https://www.nexusmods.com/starfield/mods/4783?tab=files) <br />
-    Make sure you download the optional one named accordingly and not the main one
+    Make sure you get the "No mantis Replacement" one
 64. TG's Boba Fett Armor Pack (Starborn Replacer) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
     I will delete this once TG updates her mod. My mod is a combination of her main mod and 3 optional changes on it.
 65. Star Wars Ground Crew Rebel Pilot [link](https://www.nexusmods.com/starfield/mods/6078?tab=files)
-66. Star Wars Constellation Commandos [link](https://www.nexusmods.com/starfield/mods/9417)
 67. Freestar Rebels (v1.3) [link](https://www.nexusmods.com/starfield/mods/7410?tab=files)
 68. UC Empire (v1.3) [link](https://www.nexusmods.com/starfield/mods/7223?tab=files)
 69. AT-ST Enemies [link](https://www.nexusmods.com/starfield/mods/8022?tab=files) 
 70. Star Wars Rebel Leaders (v1.1) [link](https://www.nexusmods.com/starfield/mods/9125?tab=files)
 71. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) [link](https://www.nexusmods.com/starfield/mods/7506?tab=files)
 72. Star Wars - Purge Trooper (Varuun) (1.0) [link](https://www.nexusmods.com/starfield/mods/6823?tab=files)
-73. Trandoshan Mercs Ecliptic Replacer (1.0) [link](https://www.nexusmods.com/starfield/mods/8852?tab=files)
+73. Trandoshan Mercs **(1.0)** [link](https://www.nexusmods.com/starfield/mods/8852?tab=files)
 74. Coruscant Police Uniform (Neon/Ryujin Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9313?tab=files)
 75. Bespin Security Uniform (Trident Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9325?tab=files)
-76. Dark Trooper Armor (Shocktroop Replacer) [link](https://www.nexusmods.com/starfield/mods/9473?tab=files)<br />
 77. Star Wars - Shoretrooper Main [link](https://www.nexusmods.com/starfield/mods/8822?tab=files) 
 78. Star Wars - Shoretrooper Paradiso Security Replacer [link](https://www.nexusmods.com/starfield/mods/8822?tab=files)   <br />
     Download these 2 versions: ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V3_for_Starfield_1.12.30/assets/170469610/175037e4-d28f-4f9b-a7ec-3db8c6dfce01)  <br />
     For some reason the updated version is causing savegame crashes and I ain't about to deal with that 1 hour before V3 release
-79. Sith Stalker Armor (Mark 1 Replacer) [link](https://www.nexusmods.com/starfield/mods/9523/?tab=files)
-80. REMOVE Scoundrel and Smuggler Outfits (Deep Recon and Space Trucker Replacer) 
 81. Star Wars Bounty Hunter Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/9147?tab=files)
-82. Dengar Mercenary Spacesuit Replacer [link](https://www.nexusmods.com/starfield/mods/9434?tab=files)
 83. Boba Fet 1313 (1.1) [link](https://www.nexusmods.com/starfield/mods/9193?tab=files) `<----- UPDATED FOR V4`
-84. Boba Fett 1313 Explorer Suit Replacement [link](https://www.nexusmods.com/starfield/mods/9435?tab=files) 
-85. Hugin's KOTOR Neo Crusader Pack for Spacers/Disciples [link](https://www.nexusmods.com/starfield/mods/9472/?tab=files) `<----- UPDATED FOR V4`
 86. Star Wars - BB Echo Armor (V1) [link](https://www.nexusmods.com/starfield/mods/9118?tab=files)
-87. BB Echo Mercury Suit Replacer [link](https://www.nexusmods.com/starfield/mods/9448?tab=files) 
 88. Star Wars - Mimban Stormtrooper (1.1) [link](https://www.nexusmods.com/starfield/mods/8965?tab=files)
-89. Mimban Stormtrooper Deepcore/Deepseeker/Miner Replacer [link](https://www.nexusmods.com/starfield/mods/9447?tab=files)
-90. Star Wars Snowtrooper [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) 
-91. Nomad Armor Star Wars [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing)  <br />
-    Credit to zone79 for the amazing Nomad Armor design
-92. Cad Bane (Star Wars) (1.1) - Main Mod ONLY [link](https://www.nexusmods.com/starfield/mods/9537?tab=files) 
-93. Smuggler Armor [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing)
-94. Darth Vader Outfit(v2) [link](https://www.nexusmods.com/starfield/mods/8921?tab=files) `<----- NEW TO V4`
-95. Sentinel Armor (ETES Suit Replacer) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- NEW TO V4`
+92. Cad Bane (Star Wars) (1.1) - Main Mod ONLY [link](https://www.nexusmods.com/starfield/mods/9537?tab=files)
+93. Darth Vader Outfit(v2) [link](https://www.nexusmods.com/starfield/mods/8921?tab=files) `<----- NEW TO V4`
+94. Star Wars Genesis - Armor Pack
 
 <br />**Weapons**<br />
 
@@ -234,29 +200,19 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 93. Imperial Armaments - Star Wars Weapon Replacer (v1.3) [link](https://www.nexusmods.com/starfield/mods/8775?tab=files)
 94. Star Wars Melee Weapon Replacer All in One (v1.2) [link](https://www.nexusmods.com/starfield/mods/9016?tab=files) `<----- UPDATED FOR V4`
 
-<br />**Sounds**<br />
+<br />**Sounds**`<----- REVAMPED FOR V4`<br />
+Just delete everything and start over with these in my opinion. gonna be a bit messy:
 
-95. Sounds From a Galaxy Far Away (v1.1.0) [link](https://www.nexusmods.com/starfield/mods/3169?tab=files)
-96. Star Wars Bounty Hunter Jetpack Sounds (v1.5) [link](https://www.nexusmods.com/starfield/mods/2154?tab=files)
-97. Galactic Stormtrooper Voice Lines for UC Security Female [link](https://www.nexusmods.com/starfield/mods/2176?tab=files)
-98. Galactic Stormtrooper Voice Lines for UC Security Male [link](https://www.nexusmods.com/starfield/mods/2176?tab=files)
-99. Starfield Boarding Alarm Sound Replacement Pack (Death Star) (v1.0) [link](https://www.nexusmods.com/starfield/mods/3549?tab=files)
-100. Star Wars Concussion Missile Sound Replacement for Atlatl 270 and 280 (v1.0) [link](https://www.nexusmods.com/starfield/mods/3002?tab=files)
-101. Star Wars Tie Fighter Cannon Sound Replacement for PB-300 and PBO-300 Cannons (v1.0) [link](https://www.nexusmods.com/starfield/mods/2262?tab=files)
-102. Star Wars A Wing Sound Replacement for KE-20 AND KE-31 Cannons (v1.0) [link](https://www.nexusmods.com/starfield/mods/2581?tab=files)
-103. AMUN Engines STAR WARS (v1.0) [link](https://www.nexusmods.com/starfield/mods/8522?tab=files)
-104. NOVA Engines STAR WARS (v1.0) [link](https://www.nexusmods.com/starfield/mods/8526?tab=files)
-105. No Grav Jump Music (Muted - Silent - No overlapping Sounds) [link](https://www.nexusmods.com/starfield/mods/609?tab=files)
-106. No Interplanetary Travel Music [link](https://www.nexusmods.com/starfield/mods/4622?tab=files)
-107. Hyperspace SFX - Grav Jump Replace [link](https://www.nexusmods.com/starfield/mods/2234?tab=files)
-108. Star Wars Mos Eisley Cantina Music Replacer (v1.0) [link](https://www.nexusmods.com/starfield/mods/5390?tab=files)
-109. Star Wars UI Sounds [link](https://www.nexusmods.com/starfield/mods/9390?tab=files)
-110. Immersive Explosive and Grenade Sounds [link](https://www.nexusmods.com/starfield/mods/2757?tab=files)
-111. No Headshot and Crit Sounds - Immersive and Realistic [link](https://www.nexusmods.com/starfield/mods/4414?tab=files)
-112. Star Wars Music and Ambience Overhaul [link](https://drive.google.com/file/d/1kLRhEXBYP5zha4WYdo2LYJuqSKvAdtoo/view?usp=sharing)
-113. Challenge Complete Muter [link](https://www.nexusmods.com/starfield/mods/4539?tab=files) SCROLL DOWN PLEASE. DOWNLOAD ONLY THE ONE FILE
-114. Subtle Level Up Sounds [link](https://www.nexusmods.com/starfield/mods/271?tab=files)
-115. No Flight Take Off Music [link](https://www.nexusmods.com/starfield/mods/609?tab=files)
+95. Star Wars Genesis - Ship Sound Pack
+96. Star Wars UI Sounds [link](https://www.nexusmods.com/starfield/mods/9390?tab=files)
+97. Star Wars Genesis - Misc Sound Pack
+100. Star Wars Bounty Hunter Jetpack Sounds (v1.5) [link](https://www.nexusmods.com/starfield/mods/2154?tab=files)
+101. Galactic Stormtrooper Voice Lines for UC Security Female [link](https://www.nexusmods.com/starfield/mods/2176?tab=files)
+102. Galactic Stormtrooper Voice Lines for UC Security Male [link](https://www.nexusmods.com/starfield/mods/2176?tab=files)
+103. Sounds From a Galaxy Far Far Away [link](https://www.nexusmods.com/starfield/mods/3169?tab=files)
+112. Star Wars Mos Eisley Cantina Music Replacer (v1.0) [link](https://www.nexusmods.com/starfield/mods/5390?tab=files)
+116. Star Wars Music and Ambience Overhaul [link](https://drive.google.com/file/d/1kLRhEXBYP5zha4WYdo2LYJuqSKvAdtoo/view?usp=sharing)
+
 
 <br />**Performance**<br />
 
