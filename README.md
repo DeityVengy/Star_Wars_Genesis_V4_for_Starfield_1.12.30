@@ -91,7 +91,7 @@ Please read each mod instruction carefully. They're manually installed in differ
 12. Weapon Icons - AiO (Complete Series) [link](https://www.nexusmods.com/starfield/mods/8744?tab=files) <br /> 
     MAKE SURE YOU NAME THE MOD "Weapon Icons - AiO (Complete Series)"
 13. Star Wars Background and Traits [link](https://www.nexusmods.com/starfield/mods/9661?tab=files) `<----- NEW TO V4`
-14. Star Wars Name Replacement Overhaul [link](https://www.nexusmods.com/starfield/mods/9421?tab=files) <br /> `<----- UPDATED FOR V4`
+14. Star Wars Name Replacement Overhaul [link](https://www.nexusmods.com/starfield/mods/9421?tab=files) `<----- UPDATED FOR V4` <br />
     Install only the main file right now
 16. Enhanced Player Healthbar WYOR (v1.03) [link](https://www.nexusmods.com/starfield/mods/454?tab=files)
 17. Show Star Names [link](https://www.nexusmods.com/starfield/mods/5188?tab=files)
