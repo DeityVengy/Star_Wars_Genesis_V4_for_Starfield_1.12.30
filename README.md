@@ -104,6 +104,11 @@ Please read each mod instruction carefully. They're manually installed in differ
 18. Show Star Names [link](https://www.nexusmods.com/starfield/mods/5188?tab=files)
 19. Starfield Pause Screen Logo Remover [link](https://www.nexusmods.com/starfield/mods/9474/?tab=files)
 
+<br />**Quests**<br />
+
+20. Alternate Paradiso Solution [link](https://www.nexusmods.com/starfield/mods/9675?tab=files) `<----- NEW TO V4`
+
+
 <br />**Animations and Camera**<br />
 
 20. Angry Walk Animation (v1.0) [link](https://www.nexusmods.com/starfield/mods/3434?tab=files)
