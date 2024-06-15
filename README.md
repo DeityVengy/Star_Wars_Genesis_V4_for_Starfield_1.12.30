@@ -96,7 +96,7 @@ Please read each mod instruction carefully. They're manually installed in differ
     Install only the main file right now
 16. Enhanced Player Healthbar WYOR (v1.03) [link](https://www.nexusmods.com/starfield/mods/454?tab=files)
 17. Show Star Names [link](https://www.nexusmods.com/starfield/mods/5188?tab=files)
-18. Star Wars Genesis - HUD Pack [link](https://drive.google.com/drive/folders/1N3pXqIPYvmA-XoWDD7agMD0THc2baKIE?usp=sharing)
+18. Star Wars Genesis - HUD Pack [link](https://drive.google.com/drive/folders/1N3pXqIPYvmA-XoWDD7agMD0THc2baKIE?usp=sharing) <----- NEW TO V4`
 
 <br />**Quests**<br />
 
@@ -158,7 +158,7 @@ Delete all mods in this category and just start fresh with these:
 54. Sith Lord Robes [link](https://www.nexusmods.com/starfield/mods/6425?tab=files) 
 55. Delgado of Mandalore - Delgado Retexture Only [link](https://www.nexusmods.com/starfield/mods/3146?tab=files)
 56. Rebel Jacket - Dark Brown (Noel's Outfit) [link](https://www.nexusmods.com/starfield/mods/5826?tab=files)
-57. Star Wars Genesis - Clothing Pack [link](https://drive.google.com/drive/folders/1N3pXqIPYvmA-XoWDD7agMD0THc2baKIE?usp=sharing)
+57. Star Wars Genesis - Clothing Pack [link](https://drive.google.com/drive/folders/1N3pXqIPYvmA-XoWDD7agMD0THc2baKIE?usp=sharing) `<----- NEW TO V4`
 
 <br />**Armor**`<----- REVAMPED FOR V4`<br />
 Reorder the mods you currently have like this, then remove anything after "Star Wars Genesis - Armor Pack"
@@ -189,7 +189,7 @@ Reorder the mods you currently have like this, then remove anything after "Star 
 88. Star Wars - Mimban Stormtrooper (1.1) [link](https://www.nexusmods.com/starfield/mods/8965?tab=files)
 92. Cad Bane (Star Wars) (1.1) - Main Mod ONLY [link](https://www.nexusmods.com/starfield/mods/9537?tab=files)
 93. Darth Vader Outfit(v2) [link](https://www.nexusmods.com/starfield/mods/8921?tab=files) `<----- NEW TO V4`
-94. Star Wars Genesis - Armor Pack [link](https://drive.google.com/drive/folders/1N3pXqIPYvmA-XoWDD7agMD0THc2baKIE?usp=sharing)
+94. Star Wars Genesis - Armor Pack [link](https://drive.google.com/drive/folders/1N3pXqIPYvmA-XoWDD7agMD0THc2baKIE?usp=sharing) `<----- NEW TO V4`
 
 <br />**Weapons**<br />
 
@@ -204,9 +204,9 @@ Reorder the mods you currently have like this, then remove anything after "Star 
 <br />**Sounds**`<----- REVAMPED FOR V4`<br />
 Just delete everything and start over with these in my opinion. gonna be a bit messy:
 
-95. Star Wars Genesis - Ship Sound Pack
+95. Star Wars Genesis - Ship Sound Pack `<----- NEW TO V4`
 96. Star Wars UI Sounds [link](https://www.nexusmods.com/starfield/mods/9390?tab=files)
-97. Star Wars Genesis - Misc Sound Pack
+97. Star Wars Genesis - Misc Sound Pack `<----- NEW TO V4`
 100. Star Wars Bounty Hunter Jetpack Sounds (v1.5) [link](https://www.nexusmods.com/starfield/mods/2154?tab=files)
 101. Galactic Stormtrooper Voice Lines for UC Security Female [link](https://www.nexusmods.com/starfield/mods/2176?tab=files)
 102. Galactic Stormtrooper Voice Lines for UC Security Male [link](https://www.nexusmods.com/starfield/mods/2176?tab=files)
