@@ -96,7 +96,7 @@ Please read each mod instruction carefully. They're manually installed in differ
     Install only the main file right now
 16. Enhanced Player Healthbar WYOR (v1.03) [link](https://www.nexusmods.com/starfield/mods/454?tab=files)
 17. Show Star Names [link](https://www.nexusmods.com/starfield/mods/5188?tab=files)
-18. Star Wars Genesis - HUD Pack
+18. Star Wars Genesis - HUD Pack [link](https://drive.google.com/drive/folders/1N3pXqIPYvmA-XoWDD7agMD0THc2baKIE?usp=sharing)
 
 <br />**Quests**<br />
 
@@ -146,8 +146,8 @@ _Note: If you get an Extract Error in MO2 at any point, just start manually inst
 These are the only mods you should have in the Textures category at the end of the revamp
 
 42. Aurebesh - Star Wars Conversion [link](https://www.nexusmods.com/starfield/mods/6032?tab=files) `<----- UPDATED FOR V4`
-43. Star Wars Genesis - Misc Item Pack `<----- NEW TO V4`
-44. Star Wars Contraband (Updated) `<----- UPDATED FOR V4`
+43. Star Wars Genesis - Misc Item Pack [link](https://drive.google.com/drive/folders/1N3pXqIPYvmA-XoWDD7agMD0THc2baKIE?usp=sharing)`<----- NEW TO V4`
+44. Star Wars Contraband (Updated) [link](https://www.nexusmods.com/starfield/mods/9753?tab=files)`<----- UPDATED FOR V4`
 45. Star Wars Astromech Mini Bots [link](https://www.nexusmods.com/starfield/mods/5056?tab=files)
 46. Imperial Crest MAST Tower logo Replacer [link](https://www.nexusmods.com/starfield/mods/4816?tab=files)
 56. Imperial Crest MAST Tower Logo Replacer Fix [link](https://www.nexusmods.com/starfield/mods/9256?tab=files)
@@ -158,7 +158,7 @@ Delete all mods in this category and just start fresh with these:
 54. Sith Lord Robes [link](https://www.nexusmods.com/starfield/mods/6425?tab=files) 
 55. Delgado of Mandalore - Delgado Retexture Only [link](https://www.nexusmods.com/starfield/mods/3146?tab=files)
 56. Rebel Jacket - Dark Brown (Noel's Outfit) [link](https://www.nexusmods.com/starfield/mods/5826?tab=files)
-57. Star Wars Genesis - Clothing Pack 
+57. Star Wars Genesis - Clothing Pack [link](https://drive.google.com/drive/folders/1N3pXqIPYvmA-XoWDD7agMD0THc2baKIE?usp=sharing)
 
 <br />**Armor**`<----- REVAMPED FOR V4`<br />
 Reorder the mods you currently have like this, then remove anything after "Star Wars Genesis - Armor Pack"
@@ -189,7 +189,7 @@ Reorder the mods you currently have like this, then remove anything after "Star 
 88. Star Wars - Mimban Stormtrooper (1.1) [link](https://www.nexusmods.com/starfield/mods/8965?tab=files)
 92. Cad Bane (Star Wars) (1.1) - Main Mod ONLY [link](https://www.nexusmods.com/starfield/mods/9537?tab=files)
 93. Darth Vader Outfit(v2) [link](https://www.nexusmods.com/starfield/mods/8921?tab=files) `<----- NEW TO V4`
-94. Star Wars Genesis - Armor Pack
+94. Star Wars Genesis - Armor Pack [link](https://drive.google.com/drive/folders/1N3pXqIPYvmA-XoWDD7agMD0THc2baKIE?usp=sharing)
 
 <br />**Weapons**<br />
 
