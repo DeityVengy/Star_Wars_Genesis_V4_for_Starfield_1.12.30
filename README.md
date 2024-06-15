@@ -165,8 +165,8 @@ Reorder the mods you currently have like this, then remove anything after "Star 
 
 62. Star Wars Armor Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/8896?tab=files) <br />
     MAIN FILE 2ND OPTION ONLY
-62. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) (NO MANTIS) [link](https://www.nexusmods.com/starfield/mods/4783?tab=files) `<----- UPDATED FOR V4` <br />
-    Make sure you get the "No mantis Replacement" one
+62. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) (NO MANTIS) [link](https://www.nexusmods.com/starfield/mods/4783?tab=files&file_id=36112) `<----- DO NOT UPDATE` <br />
+    Make sure you get the "No mantis Replacement" one 
 64. TG's Boba Fett Armor Pack (Starborn Replacer) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
     I will delete this once TG updates her mod. My mod is a combination of her main mod and 3 optional changes on it.
 65. Star Wars Ground Crew Rebel Pilot [link](https://www.nexusmods.com/starfield/mods/6078?tab=files)
