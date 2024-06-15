@@ -163,10 +163,10 @@ Delete all mods in this category and just start fresh with these:
 <br />**Armor**`<----- REVAMPED FOR V4`<br />
 Reorder the mods you currently have like this, then remove anything after "Star Wars Genesis - Armor Pack"
 
-62. Star Wars Armor Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/8896?tab=files) <br />
-    MAIN FILE 2ND OPTION ONLY
-62. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) (NO MANTIS) [link](https://www.nexusmods.com/starfield/mods/4783?tab=files&file_id=36112) `<----- DO NOT UPDATE` <br />
-    Make sure you get the "No mantis Replacement" one 
+62. Star Wars Armor Pack (1.1) [link](https://www.nexusmods.com/starfield/mods/8896?tab=files&file_id=35577) <br />
+    Drag into your MO2 Downloads folder and install
+62. Mandalorian Conversion - Clone Wars Era (Tracker and Bounty Hunter Replacer) (NO MANTIS) [link](https://www.nexusmods.com/starfield/mods/4783?tab=files&file_id=36112) <br />
+    Drag into your MO2 Downloads folder and install
 64. TG's Boba Fett Armor Pack (Starborn Replacer) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) <br />
     I will delete this once TG updates her mod. My mod is a combination of her main mod and 3 optional changes on it.
 65. Star Wars Ground Crew Rebel Pilot [link](https://www.nexusmods.com/starfield/mods/6078?tab=files)
@@ -174,7 +174,8 @@ Reorder the mods you currently have like this, then remove anything after "Star 
 68. UC Empire (v1.3) [link](https://www.nexusmods.com/starfield/mods/7223?tab=files)
 69. AT-ST Enemies [link](https://www.nexusmods.com/starfield/mods/8022?tab=files) 
 70. Star Wars Rebel Leaders (v1.1) [link](https://www.nexusmods.com/starfield/mods/9125?tab=files)
-71. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) [link](https://www.nexusmods.com/starfield/mods/7506?tab=files)
+71. Shadow Collective - Mandalorian Crimson Fleet Conversion (v1.1) [link](https://www.nexusmods.com/starfield/mods/7506?tab=files&file_id=35578)
+    Drag into your MO2 Downloads folder and install
 72. Star Wars - Purge Trooper (Varuun) (1.0) [link](https://www.nexusmods.com/starfield/mods/6823?tab=files)
 73. Trandoshan Mercs **(1.0)** [link](https://www.nexusmods.com/starfield/mods/8852?tab=files)
 74. Coruscant Police Uniform (Neon/Ryujin Security Replacer) [link](https://www.nexusmods.com/starfield/mods/9313?tab=files)
