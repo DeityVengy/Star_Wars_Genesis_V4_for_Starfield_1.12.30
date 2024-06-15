@@ -258,7 +258,7 @@ If you haven't, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\M
 Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and either copy and paste the contents or replace your existing one  <br />
 
 ## **POST-INSTALL SETUP** `<----- NEW TO V4` <br /> 
-1. If you see this symbol anywhere in your mod list or plugin order, that means something went wrong. ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V4_for_Starfield_1.12.32/assets/170469610/35e60391-5447-42a6-b922-c66e276cc871) This modlist should not having any missing masters. Please join my discord and I'll try to help you out
+1. If you see this symbol anywhere in your mod list or plugin order, that means something went wrong. ![image](https://github.com/DeityVengy/Star_Wars_Genesis_V4_for_Starfield_1.12.32/assets/170469610/7083f233-983c-43b9-93e1-c3d8ab7e2da4) This modlist should not having any missing masters. Please join my discord and I'll try to help you out
 
 ## **IN-GAME SETUP**<br />
 1. If loading an existing save and a pop-up asking about load order appears, make sure you click CURRENT. Then, create a new manual save. Close and the game and check if any plugins on the right side unchecked themselves. If they did, check them and load the new manual save you created. If you close your game again, then the plugins shouldn't uncheck themselves (besides the SFBGS ones) `NEW TO V3`
