@@ -34,7 +34,7 @@ THIS IS THE BETA VERSION OF V4. IF YOU'RE READING THIS, INSTALL AT YOUR OWN RISK
 2. In Mod Organizer 2, go to Tools, Settings, Plugins, and scroll down to Starfield Support Plugin. Set "bypass_plugins_enabler_check" to true. If it's already on true, just leave it be <br />
 3. If you've modded Starfield at launch and/or with Vortex Mod Manager, your setup is probably a mess. Please uninstall Starfield completely (delete both Starfield folders in "My Games" and "steamapps\common" folder) and then install it again to delete any remnants of old mods. If you don't have it already, create a StarfieldCustom.ini at: " C:\Users\UserName\Documents\My Games\Starfield" AND "Starfield\profiles\Default" (your MO2 Directory). Download the StarfieldCustom.ini file from [here](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) and replace the current ones <br />
 4. When updating a mod in MO2, just download as you normally would and click "Replace". DO NOT "Merge".
-5. If you're upgrading multiple versions of Genesis (for example V2 to V4), I would honestly suggest starting over. I know it's not ideal but both Starfield and this modlist are in active development
+5. If you're upgrading multiple versions of Genesis (for example V2 to V4), I would honestly suggest starting over or just going through each and every mod and make sure you're using the updated/correct version listed. I know it's not ideal but both Starfield and this modlist are in active development and there's lots of changes happening in the background.
 
 ## **Manually Installed Mods:**<br />
 Please read each mod instruction carefully. They're manually installed in different places. <br />
