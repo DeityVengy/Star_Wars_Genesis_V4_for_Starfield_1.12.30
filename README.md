@@ -238,9 +238,9 @@ Just delete everything and start over with these in my opinion. gonna be a bit m
      Call the second file "Remove Recon Laser" when installing in MO2 <br />
      Don't download any other file <br />
 130. Particle Weapons Orb Fix [link](https://www.nexusmods.com/starfield/mods/6699?tab=files)
-131. Star Wars Name Replacer Override Patch [link](https://www.nexusmods.com/starfield/mods/9421?tab=files)   <br /> `<----- UPDATED FOR V4`
+131. Star Wars Name Replacer Override Patch [link](https://www.nexusmods.com/starfield/mods/9421?tab=files)  `<----- UPDATED FOR V4` <br /> 
      Install the optional file only (not encyclopedia), as you already installed the main one in the beginning.
-132. Star Wars Genesis Override Patch (VERY IMPORTANT) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing)  <br /> `<----- UPDATED FOR V4`
+132. Star Wars Genesis Override Patch (VERY IMPORTANT) [link](https://drive.google.com/drive/folders/1WaVrlGY144bWFqygE4MVmQcPbBng-eS7?usp=sharing) `<----- UPDATED FOR V4`<br />
       This last mod is literally the thing holding this modlist together. Please make sure you install it.
 
 ## **Plugins Load Order:**<br />
